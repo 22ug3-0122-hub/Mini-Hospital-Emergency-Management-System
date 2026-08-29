@@ -43,5 +43,4 @@ MiniHospitalSystem/
 │   │   ├── TreatmentStack.java      # Custom LIFO Stack implementation
 │   │   └── VisitLinkedList.java     # Custom Singly Linked List implementation
 │   └── Main.java                    # System CLI launcher and controller
-├── README.md                        # Documentation
-└── .gitignore                       # Git ignore rules
+└── README.md                        # Documentation
